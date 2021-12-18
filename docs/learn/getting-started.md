@@ -104,6 +104,10 @@ Explorers are websites that index and present network activity, where you can lo
 
 [explorer.avax.network](https://explorer.avax.network/) is the official network explorer maintained by Ava Labs.
 
+### Snowtrace
+
+[Snowtrace](https://snowtrace.io/), an implementation of the popular Ethereum block explorer [Etherscan](https://etherscan.io/), provides a highly-performative, feature-filled experience to the Avalanche community.
+
 ### AvaScan
 
 [Avascan](https://avascan.info/) is an independent explorer website, known for its slick presentation and comprehensive overview, especially interesting for viewing [validators and delegators](https://avascan.info/staking/validators), as it shows lots of interesting information about individual network validators.
